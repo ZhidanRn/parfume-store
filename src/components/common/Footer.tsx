@@ -1,5 +1,8 @@
 import Link from "next/link";
 import { Facebook, Instagram, Twitter } from "lucide-react";
+import { Rochester } from "next/font/google";
+
+const rochester = Rochester({ subsets: ["latin"], weight: "400" });
 
 export default function Footer() {
     return (
@@ -11,10 +14,10 @@ export default function Footer() {
             <div className="relative z-10 container mx-auto px-6 flex flex-col md:flex-row justify-between items-center text-center md:text-left">
                 {/* Company Info */}
                 <div className="mb-6 md:mb-0">
-                    <h2 className="text-2xl font-bold">MyStore</h2>
+                    <h2 className={`text-3xl font-semibold ${rochester.className}`}>Salna</h2>
                     <p className="mt-2 text-gray-300 text-sm">
                         📍 Jl. Magelang No.188, Karangwaru, Kec. Tegalrejo, Kota Yogyakarta, Daerah Istimewa Yogyakarta 55242 <br />
-                        📞 0812-3456-7890 <br />
+                        📞 +62821-4784-0202 <br />
                         ✉️ email@salna.com
                     </p>
                 </div>
@@ -38,7 +41,7 @@ export default function Footer() {
 
             {/* Copyright */}
             <div className="relative z-10 text-center text-gray-500 text-sm mt-6">
-                © {new Date().getFullYear()} MyStore. All Rights Reserved.
+                © {new Date().getFullYear()} Salna. All Rights Reserved.
             </div>
         </footer>
     );
