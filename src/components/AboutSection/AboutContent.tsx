@@ -7,7 +7,7 @@ export default function AboutContent() {
                 <div className="grid grid-cols-1 md:grid-cols-2 gap-12 items-center">
                     <div className="relative h-[400px] rounded-lg overflow-hidden shadow-lg">
                         <Image
-                            src="/images/about-story.jpg"
+                            src="/images/team.jpg"
                             alt="Cerita Kami"
                             fill
                             className="object-cover"
