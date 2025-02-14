@@ -24,7 +24,7 @@ export default function HeroSection() {
                 </div>
 
                 <div className="absolute inset-0 flex flex-col items-center justify-center text-center text-white px-6">
-                    <h1 className="text-6xl md:text-5xl font-extrabold drop-shadow-2xl tracking-wide">
+                    <h1 className="text-4xl md:text-5xl font-extrabold drop-shadow-2xl tracking-wide">
                         Temukan Aroma yang Menggoda
                     </h1>
                     <p className="mt-4 max-w-5xl text-lg md:text-xl drop-shadow-lg opacity-90">
