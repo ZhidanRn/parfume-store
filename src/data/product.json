@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "name": "Dior Essence",
+    "price30": 100,
+    "price50": 199,
+    "image": "/images/parfume1.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Chanel Fresh",
+    "price30": 120,
+    "price50": 225,
+    "image": "/images/parfume2.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Tom Ford Light",
+    "price30": 150,
+    "price50": 275,
+    "image": "/images/parfume3.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Gucci Floral",
+    "price30": 130,
+    "price50": 250,
+    "image": "/images/parfume4.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Versace Bloom",
+    "price30": 140,
+    "price50": 260,
+    "image": "/images/parfume5.jpg"
+  },
+  {
+    "id": 6,
+    "name": "YSL Elegance",
+    "price30": 155,
+    "price50": 280,
+    "image": "/images/parfume6.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Prada Signature",
+    "price30": 160,
+    "price50": 290,
+    "image": "/images/parfume7.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Armani Noir",
+    "price30": 135,
+    "price50": 245,
+    "image": "/images/parfume8.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Calvin Klein Pure",
+    "price30": 125,
+    "price50": 235,
+    "image": "/images/parfume9.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Burberry Classic",
+    "price30": 145,
+    "price50": 270,
+    "image": "/images/parfume10.jpg"
+  }
+]
